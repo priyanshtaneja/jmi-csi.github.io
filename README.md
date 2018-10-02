@@ -7,7 +7,8 @@ We aim at bridging the gap between the technology and academia of the institute.
 </td>
 </tr>
 </table>
-
+<br>
+Check out our official website [here.](http://csi-jmi.com)
 ### Development
 Want to contribute? Great!
 
